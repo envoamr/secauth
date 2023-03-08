@@ -2,6 +2,11 @@
 
 Attempt to make a website with secure user authentication inspired from [OWASP Top Ten guidelines](https://owasp.org/www-project-top-ten/).
 
+# Demo (light/dark theme)
+
+![Sign in Page](./signin-dark.png)
+![Sign up Page](./signup-light.png)
+
 ## Building It
 
 Note: Make sure you have node version 16+ selected.
