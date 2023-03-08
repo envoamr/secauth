@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Poppins:wght@400;500;600&display=swap");
+
+/* .font-poppins {
+  font-family: "Poppins", sans-serif;
+} */
+
+/* Mobile sometimes doesn't use full width */
+html,
+body {
+  overflow-x: hidden;
+}
